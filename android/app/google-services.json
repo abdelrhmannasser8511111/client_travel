@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327598041129",
+    "project_id": "trips-app-fa5b1",
+    "storage_bucket": "trips-app-fa5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327598041129:android:7a7cce5a814c0f502c1438",
+        "android_client_info": {
+          "package_name": "com.client_travel.client_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327598041129-hemio4lse60mkdtfd72tp7uq260rjdoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiz-a-kBqfFxdOd6lnp7HqzWD22hUQJBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327598041129-hemio4lse60mkdtfd72tp7uq260rjdoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
